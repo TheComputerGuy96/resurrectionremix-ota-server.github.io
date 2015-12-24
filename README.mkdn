@@ -1,4 +1,4 @@
- OTA Server XML ( Only for RR lollipop )
+ #OTA Server XML ( Only for RR lollipop )
 
 Attention all device maintainers
 As some of you'll know, recently we added an OTACenter app into RR
